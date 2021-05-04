@@ -13,7 +13,7 @@ This is for your learning only, not to be used for spamming or for any commercia
 
 Read the instructions at [www.CustDeal.com](https://www.custdeal.com/blog/)  Tutorial and post your query/bugs at the Contact Form at [https://www.custdeal.com/contact/](https://www.custdeal.com/contact/). 
 
-Visit http://www.CustDeal.com/php_tutorial/ajax-server-clock.php  for script updates and more details. 
+Visit [https://www.custdeal.com/blog/blog-details.php?post=Server-Clock-showing-date-and-time-using-Ajax](https://www.custdeal.com/blog/blog-details.php?post=Server-Clock-showing-date-and-time-using-Ajax) for script updates and more details. 
 
 
 # For Paid Service
