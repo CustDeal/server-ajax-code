@@ -20,4 +20,4 @@ Visit [https://www.custdeal.com/blog/blog-details.php?post=Server-Clock-showing-
 Are you want to get implementation help, or modify or enhance the functionality of this script? Submit Paid Service Request Starting from Rs. 500 /-
 
 # URL for Paid Service
-[https://www.custdeal.com/contact/](https://www.custdeal.com/contact/) to go to Paid Service. 
+[https://www.custdeal.com/contact/](https://www.custdeal.com/contact/). 
